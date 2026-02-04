@@ -1,0 +1,23 @@
+{
+    "ReverseCategorys": false,
+    "ShowPrivateWorld": false,
+    "Categorys": [
+      {
+        "Category": "チルワ",
+        "Worlds": [
+          "ID": "wrld_00001111-2222-3333-4444-555566667777",
+          "Name": "ワールド名1",
+          "RecommendedCapacity": 30,
+          "Capacity": 60,
+          "Description": "ワールドの説明文1",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": true
+          },
+        "ReleaseStatus": "public",
+        "PermittedRoles": ["ロール1", "ロール2"]]
+      },
+    ],
+    "Roles": []
+}
