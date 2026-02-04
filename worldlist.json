@@ -5,19 +5,94 @@
       {
         "Category": "チルワ",
         "Worlds": [
-          "ID": "wrld_00001111-2222-3333-4444-555566667777",
-          "Name": "ワールド名1",
-          "RecommendedCapacity": 30,
-          "Capacity": 60,
-          "Description": "ワールドの説明文1",
-          "Platform": {
-            "PC": true,
-            "Android": true,
-            "iOS": true
+          {
+            "ID": "wrld_fa3dcecb-f855-405f-96c0-6ed08f1de05d",
+            "Name": "To the one I cherish the most",
+            "RecommendedCapacity": 15,
+            "Capacity": 32,
+            "Description": "This world was requested by ph0b0s․ （made by _Harim）",
+            "Platform": {
+              "PC": true
+            },
+            "ReleaseStatus": "public"
           },
-        "ReleaseStatus": "public",
-        "PermittedRoles": ["ロール1", "ロール2"]]
+          {
+            "ID": "wrld_859e22bb-c556-4b12-b381-9916fa5e6c07",
+            "Name": "はるのわすれもの Charlotte's Secret Island",
+            "RecommendedCapacity": 16,
+            "Capacity": 32,
+            "Description": "春が旅立ち、夏が訪れる․․․その境界の島。うつろう季節に手を振って․․․ブランコに揺られながら、今日もゆっくり空を見上げるのです。空をめぐる鯨は、あなたに幸せを届けてくれるでしょう。∗∗小屋の中はiwasync⁄ミラー⁄Qvペンあります。ちょっとしたHomeや休憩場所にぜひ。",
+            "Platform": {
+              "PC": true
+            },
+            "ReleaseStatus": "public"
+          },
+          {
+            "ID": "wrld_e9db55c1-728c-4921-9cb0-fb461546cb73",
+            "Name": "Retreat of Haze カスミノカクレガ",
+            "RecommendedCapacity": 12,
+            "Capacity": 25,
+            "Description": "放置の際やV睡・ホームワールドにどうぞ。2階が防音室になっています。｜For AFK‚ sleep‚ home‚ and anything else you like․ 2F is a soundproof area․｜Boothでアセットを販売予定です。｜ Assets will be available on BOOTH soon․｜ QvPen⁄ RBS SleepKit 2⁄ YamaPlayer",
+            "Platform": {
+              "PC": true,
+              "Android": true,
+              "iOS": true
+            },
+            "ReleaseStatus": "public"
+          },
+          {
+            "ID": "wrld_b4b5dcce-d755-4543-b747-661d9b879f3b",
+            "Name": "Bar DeepDiver ［Beta］",
+            "RecommendedCapacity": 12,
+            "Capacity": 24,
+            "Description": "【ver․0․5】酒類及び乾き物の追加。椅子配置及び最適化。",
+            "Platform": {
+              "PC": true
+            },
+            "ReleaseStatus": "public"
+          }
+        ]
       },
+      {
+        "Category": "ゲムワ",
+        "Worlds": [
+          {
+            "ID": "wrld_859e22bb-c556-4b12-b381-9916fa5e6c07",
+            "Name": "Terrors of Nowhere",
+            "RecommendedCapacity": 9,
+            "Capacity": 19,
+            "Description": "Friends＋ or Group heavily recommended․ ｜（HEAVY WORLD）This world contains flashing lights and jumpscares․｜ A chaotic udon survival 'horror' game․ Supports 16 players‚ up to 19․｜ Version 1․18｜ There will be bugs․",
+            "Platform": {
+              "PC": true
+            },
+            "ReleaseStatus": "public"
+          },
+          {
+            "ID": "wrld_859e22bb-c556-4b12-b381-9916fa5e6c07",
+            "Name": "Terrors of Nowhere",
+            "RecommendedCapacity": 9,
+            "Capacity": 19,
+            "Description": "春が旅立ち、夏が訪れる․․․その境界の島。うつろう季節に手を振って․․․ブランコに揺られながら、今日もゆっくり空を見上げるのです。空をめぐる鯨は、あなたに幸せを届けてくれるでしょう。∗∗小屋の中はiwasync⁄ミラー⁄Qvペンあります。ちょっとしたHomeや休憩場所にぜひ。",
+            "Platform": {
+              "PC": true
+            },
+            "ReleaseStatus": "public"
+          },
+          {
+            "ID": "wrld_e9db55c1-728c-4921-9cb0-fb461546cb73",
+            "Name": "Retreat of Haze カスミノカクレガ",
+            "RecommendedCapacity": 12,
+            "Capacity": 25,
+            "Description": "放置の際やV睡・ホームワールドにどうぞ。2階が防音室になっています。｜For AFK‚ sleep‚ home‚ and anything else you like․ 2F is a soundproof area․｜Boothでアセットを販売予定です。｜ Assets will be available on BOOTH soon․｜ QvPen⁄ RBS SleepKit 2⁄ YamaPlayer",
+            "Platform": {
+              "PC": true,
+              "Android": true,
+              "iOS": true
+            },
+            "ReleaseStatus": "public"
+          }
+        ]
+      }
     ],
     "Roles": []
 }
